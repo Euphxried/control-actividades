@@ -7,6 +7,8 @@ git push = sube los cambios hechos a la nube
 
 Explica qué ocurre en cada instrucción.
 
+-------------------------------------------------------------------------------------------------------------------------
+
 2. Identifica qué falta
 
 Caso A
